@@ -19,7 +19,7 @@
 
     <ShellContent
  Title="About Button"
- ContentTemplate="{DataTemplate local:About}"
+ ContentTemplate="{DataTemplate local:AboutButton}"
  Route="AboutButton" />
 
 </Shell>
